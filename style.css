@@ -10,7 +10,7 @@
     --color-message-text: #9E0E2B;
     
     /* Images */
-    --image-path-background: url('assets/main-bg.png');
+    --image-path-background: url('assets/bg-image.jpeg');
     --image-path-content: url('assets/image-content/image-1.png');
     
     /* Fonts */
@@ -40,7 +40,7 @@
     justify-content: center;
     align-items: center;
     background: var(--color-page-background) var(--image-path-background) bottom center no-repeat;
-    background-size: 100% auto; /* Desktop view */
+    background-size: 100%  auto; 
   }
   
   h1 { 
